@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f4d86deb8dbe4945a3c65fa6ff1fad8, type: 3}
+  m_Name: Enemies
+  m_EditorClassIdentifier: 
+  packageNumber: 3
+  name: enemies
+  packageColor: {r: 0, g: 0, b: 0, a: 0}
+  buttonImage: {fileID: 2430072653459814957, guid: ccfc485a93dba9d4fbc0eec8e5778917, type: 3}
+  buttonImagePressed: {fileID: -5542823927723647660, guid: 412b3520951600e42b3c474902c7d668, type: 3}
+  levels:
+  - {fileID: 4900000, guid: 6b8184d97cb70a8489c4212442cce2ee, type: 3}
+  - {fileID: 4900000, guid: 8f3c0c5a69eb54245ba66ac42027bc60, type: 3}
